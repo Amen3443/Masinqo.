@@ -1,0 +1,26 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl object_0.005
+Ns 9.849171
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd Textures/RGB_cf0a8fd903bf4dadafff20ba4e0b784c_masinqo_Base_Color.jpg
+map_refl Textures/R_00077a637a9e48759b19e8305c255936_masimqowire_Metallic-masimqowire_RoughnesschannelsB.jpeg
+map_Bump -bm 1.000000 Textures/N_3decbad3d2ca40dba2cb4ef958b47f96_masinqo_Normal_OpenGL.jpeg
+
+newmtl object_1.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Textures/RGB_a39854e6d53248fc95a1708983fd0942_masimqowire_Base_Color.jpg
+map_refl Textures/R_00077a637a9e48759b19e8305c255936_masimqowire_Metallic-masimqowire_RoughnesschannelsB.jpeg
+map_Bump -bm 1.000000 Textures/N_244995a2a1c54d85b882d863bc94e33e_masimqowire_Normal.jpeg
